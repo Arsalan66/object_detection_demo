@@ -1,0 +1,26 @@
+<annotation>
+  <folder>test</folder>
+  <filename>10</filename>
+  <path>C:\Users\HOME\Pictures\object_detection_demo-master\data\images\test\10.jpeg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed Limit 20</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>676</xmin>
+      <ymin>55</ymin>
+      <xmax>787</xmax>
+      <ymax>174</ymax>
+    </bndbox>
+  </object>
+</annotation>
