@@ -1,0 +1,9 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+10.jpeg,800,600,Speed Limit 20,676,55,787,174
+21.jpeg,800,600,Stop,424,61,625,185
+22.jpeg,800,600,Speed Limit 40,542,79,714,177
+23.jpeg,800,600,Stop,246,77,505,222
+32.jpeg,800,600,Go,261,73,474,203
+33.jpeg,800,600,Speed Limit 40,266,59,539,210
+34.jpeg,800,600,Go,216,53,441,195
+9.jpeg,800,600,Speed Limit 20,275,52,391,179

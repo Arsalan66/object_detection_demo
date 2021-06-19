@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'Go'
+}
+
+item {
+    id: 2
+    name: 'Speed Limit 20'
+}
+
+item {
+    id: 3
+    name: 'Speed Limit 40'
+}
+
+item {
+    id: 4
+    name: 'Stop'
+}
