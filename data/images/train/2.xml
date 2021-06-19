@@ -1,0 +1,26 @@
+<annotation>
+  <folder>train</folder>
+  <filename>2</filename>
+  <path>C:\Users\HOME\Pictures\object_detection_demo-master\data\images\train\2.jpeg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed Limit 20</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>568</xmin>
+      <ymin>157</ymin>
+      <xmax>771</xmax>
+      <ymax>272</ymax>
+    </bndbox>
+  </object>
+</annotation>
